@@ -68,10 +68,10 @@
                                     </tableView>
                                 </subviews>
                                 <constraints>
-                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="width" secondItem="pZE-qo-pnX" secondAttribute="width" multiplier="0.45" id="4R5-Yj-wc3"/>
-                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="leading" secondItem="pZE-qo-pnX" secondAttribute="leading" id="Qsr-ff-xjz"/>
-                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="height" secondItem="pZE-qo-pnX" secondAttribute="height" multiplier="0.3" id="dy5-M5-wlO"/>
-                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="top" secondItem="pZE-qo-pnX" secondAttribute="top" id="nlb-z7-3nX"/>
+                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="width" secondItem="pZE-qo-pnX" secondAttribute="width" multiplier="0.45" priority="999" id="4R5-Yj-wc3"/>
+                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="leading" secondItem="pZE-qo-pnX" secondAttribute="leading" priority="999" id="Qsr-ff-xjz"/>
+                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="height" secondItem="pZE-qo-pnX" secondAttribute="height" multiplier="0.3" priority="999" id="dy5-M5-wlO"/>
+                                    <constraint firstItem="NB6-Tx-whX" firstAttribute="top" secondItem="pZE-qo-pnX" secondAttribute="top" priority="999" id="nlb-z7-3nX"/>
                                 </constraints>
                                 <variation key="default">
                                     <mask key="constraints">
